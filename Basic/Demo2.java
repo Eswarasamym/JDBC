@@ -1,7 +1,7 @@
 package Basic;
 
 public class Demo2 {
-	
+	// parameterized method creation in non-primitive datatypes
 	void m1(Object o)  
 	{
 		System.out.println(o);
