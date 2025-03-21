@@ -3,7 +3,7 @@ package Basic;
 import java.util.Scanner;
 
 public class Demo {
-	
+	// create method in non-primitive datatype 
 	public Object m1() {
 		return new Object();
 	}
