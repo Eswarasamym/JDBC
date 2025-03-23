@@ -5,6 +5,8 @@ interface Animal{
 
 }
 class Dog implements Animal{
+
+	
 	
 }
 public class test2 {
