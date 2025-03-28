@@ -1,6 +1,6 @@
 package com;
 
-public class Second_way {
+public class firstStepSecond_way {
 	public static void main(String[] args)//throws Exception 
 	{
 		// 2 way  
