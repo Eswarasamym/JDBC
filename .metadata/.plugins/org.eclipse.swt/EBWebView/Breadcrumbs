@@ -1,0 +1,106 @@
+0:00:14 Tab1 StartNav4 #typed
+0:00:14 Tab1 FinishNav4
+0:00:14 Tab1 PageLoad
+0:00:16 Tab1 StartNav5 #typed
+0:00:16 Tab1 FinishNav5
+0:00:16 Tab1 PageLoad
+0:00:17 Tab1 StartNav6 #typed
+0:00:17 Tab1 FinishNav6
+0:00:17 Tab1 PageLoad
+0:00:18 Tab1 StartNav7 #typed
+0:00:18 Tab1 FinishNav7
+0:00:18 Tab1 PageLoad
+0:00:29 Tab1 StartNav8 #typed
+0:00:29 Tab1 FinishNav8
+0:00:29 Tab1 PageLoad
+0:00:29 Tab1 StartNav9 #typed
+0:00:29 Tab1 FinishNav9
+0:00:29 Tab1 PageLoad
+0:00:30 Tab1 StartNav10 #typed
+0:00:31 Tab1 FinishNav10
+0:00:31 Tab1 PageLoad
+0:00:49 Tab1 StartNav11 #typed
+0:00:49 Tab1 FinishNav11
+0:00:49 Tab1 PageLoad
+0:00:50 Tab1 StartNav12 #typed
+0:00:50 Tab1 FinishNav12
+0:00:50 Tab1 PageLoad
+0:01:51 Tab1 StartNav13 #typed
+0:01:51 Tab1 FinishNav13
+0:01:51 Tab1 PageLoad
+0:02:17 Tab1 StartNav14 #typed
+0:02:17 Tab1 FinishNav14
+0:02:17 Tab1 PageLoad
+0:02:17 Tab1 StartNav15 #typed
+0:02:17 Tab1 FinishNav15
+0:02:17 Tab1 PageLoad
+0:02:17 Tab1 StartNav16 #typed
+0:02:17 Tab1 FinishNav16
+0:02:17 Tab1 PageLoad
+0:02:50 Tab1 StartNav17 #typed
+0:02:50 Tab1 FinishNav17
+0:02:50 Tab1 PageLoad
+0:04:26 Tab1 StartNav18 #typed
+0:04:26 Tab1 FinishNav18
+0:04:26 Tab1 PageLoad
+0:04:47 Tab1 StartNav19 #typed
+0:04:47 Tab1 FinishNav19
+0:04:47 Tab1 PageLoad
+0:05:21 Tab1 StartNav20 #typed
+0:05:21 Tab1 FinishNav20
+0:05:21 Tab1 PageLoad
+0:05:43 Tab1 StartNav21 #typed
+0:05:43 Tab1 FinishNav21
+0:05:43 Tab1 PageLoad
+0:06:22 Tab1 StartNav22 #typed
+0:06:22 Tab1 FinishNav22
+0:06:22 Tab1 PageLoad
+0:06:32 Tab1 StartNav23 #typed
+0:06:32 Tab1 FinishNav23
+0:06:32 Tab1 PageLoad
+0:06:33 Tab1 StartNav24 #typed
+0:06:33 Tab1 FinishNav24
+0:06:33 Tab1 PageLoad
+0:06:47 Tab1 StartNav25 #typed
+0:06:47 Tab1 FinishNav25
+0:06:47 Tab1 PageLoad
+0:06:51 Tab1 StartNav26 #typed
+0:06:51 Tab1 FinishNav26
+0:06:51 Tab1 PageLoad
+0:06:57 Tab1 StartNav27 #typed
+0:06:57 Tab1 FinishNav27
+0:06:57 Tab1 PageLoad
+0:07:02 Tab1 StartNav28 #typed
+0:07:02 Tab1 FinishNav28
+0:07:02 Tab1 PageLoad
+0:07:18 Tab1 StartNav29 #typed
+0:07:18 Tab1 FinishNav29
+0:07:18 Tab1 PageLoad
+0:07:35 Tab1 StartNav30 #typed
+0:07:35 Tab1 FinishNav30
+0:07:35 Tab1 PageLoad
+0:07:36 Tab1 StartNav31 #typed
+0:07:36 Tab1 FinishNav31
+0:07:36 Tab1 PageLoad
+0:24:26 Tab1 StartNav32 #typed
+0:24:26 Tab1 FinishNav32
+0:24:26 Tab1 PageLoad
+0:32:17 Microsoft.NewBrowser_Popup
+0:32:17 Microsoft.BrowserList.AddBrowser
+0:32:17 Browser2 Insert active Tab2 at 0
+0:32:17 Tab2 StartNav33 #auto_toplevel
+0:32:17 Tab2 StartNav34 #typed
+0:32:17 Tab2 FinishNav33
+0:32:17 Tab2 PageLoad
+0:32:17 Tab2 FinishNav34
+0:32:17 Tab2 PageLoad
+0:32:17 Tab2 StartNav35 #typed
+0:32:17 Tab2 FinishNav35
+0:32:17 Tab2 PageLoad
+0:34:03 Tab2 StartNav36 #typed
+0:34:03 Tab2 FinishNav36
+0:34:03 Tab2 PageLoad
+0:34:04 Tab2 StartNav37 #typed
+0:34:04 Tab2 FinishNav37
+0:34:04 Tab2 PageLoad
+0:34:08 Microsoft.Shutdown.OnWindowClosing
